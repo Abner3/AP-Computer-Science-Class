@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=roomNum\ full\ name
+comment0.target=Room101(int,\ boolean,\ java.lang.String)
+numComments=1

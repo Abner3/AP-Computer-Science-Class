@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=sideCount
+comment0.target=Polygon(int)
+comment1.params=
+comment1.target=double\ getArea()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getSideCount()
+numComments=4

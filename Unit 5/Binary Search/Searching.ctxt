@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arr\ target
+comment0.target=int\ seqSearch(int[],\ int)
+comment0.text=\ Returns\ the\ index\ of\ the\ first\ time\ target\ appears\ in\ arr.\ \ If\ target\ is\ not\ \n\ \ present\ in\ arr,\ return\ -1\n
+comment1.params=arr\ target
+comment1.target=int\ binSearch(int[],\ int)
+comment1.text=\ Returns\ the\ index\ of\ the\ first\ time\ target\ appears\ in\ arr.\ \ If\ target\ is\ not\n\ \ present\ in\ arr,\ return\ -1\n
+numComments=2

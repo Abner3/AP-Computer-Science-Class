@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Point(int,\ int)
+comment1.params=otherPoint
+comment1.target=double\ distance(Point)
+comment2.params=otherPoint
+comment2.target=double\ computeSlope(Point)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=other
+comment5.target=boolean\ equals(Point)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

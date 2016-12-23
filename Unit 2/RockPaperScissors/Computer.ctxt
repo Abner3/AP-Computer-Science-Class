@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Computer()
+comment1.params=
+comment1.target=java.lang.String\ getChoice()
+comment2.params=
+comment2.target=void\ randomSetChoice()
+comment3.params=p
+comment3.target=int\ didIWin(Player)
+comment3.text=\n\ \ \ \ didIWin(Player\ p)\ will\ return\ the\ following\ values\n\ \ \ \ 0\ -\ both\ players\ have\ the\ same\ choice\n\ \ \ \ 1\ -\ the\ computer\ had\ the\ higher\ ranking\ choice\n\ \ \ \ -1\ -\ the\ player\ had\ the\ higher\ ranking\ choice\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

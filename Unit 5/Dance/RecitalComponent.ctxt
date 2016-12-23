@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=RecitalComponent(int)
+comment1.params=
+comment1.target=int\ getLength()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ perform()
+numComments=4

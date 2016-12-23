@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alphabetize()
+comment1.params=word
+comment1.target=java.lang.String\ add(java.lang.String)
+comment1.text=adds\ word\ to\ list\ so\ that\ list\ remains\ alphabetized
+comment2.params=word
+comment2.target=int\ findInsertLocation(java.lang.String)
+comment2.text=returns\ the\ location\ in\ list\ where\ word\ would\ go\ to\ keep\ the\ list\ alphabetized
+comment3.params=word
+comment3.target=void\ remove(java.lang.String)
+comment3.text=removes\ word\ from\ list\ and\ keeps\ list\ alphabetized
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=returns\ a\ String\ containing\ all\ of\ the\ words\ in\ list
+comment5.params=
+comment5.target=int\ getSize()
+numComments=6

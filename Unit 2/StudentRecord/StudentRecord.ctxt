@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=scores
+comment0.target=StudentRecord(int[])
+comment1.params=first\ last
+comment1.target=double\ average(int,\ int)
+comment2.params=
+comment2.target=boolean\ hasImproved()
+comment3.params=
+comment3.target=double\ finalAverage()
+numComments=4

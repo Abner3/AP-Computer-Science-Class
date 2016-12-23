@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=style\ sizeList
+comment0.target=Dresses(java.lang.String,\ int[])
+comment1.params=x
+comment1.target=boolean\ contains(int)
+comment2.params=style
+comment2.target=void\ setStyle(java.lang.String)
+comment3.params=sizeList
+comment3.target=void\ setSizeList(int[])
+comment4.params=
+comment4.target=java.lang.String\ getStyle()
+comment5.params=
+comment5.target=int[]\ getSizeList()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

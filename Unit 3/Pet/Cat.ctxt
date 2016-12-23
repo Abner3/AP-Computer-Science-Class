@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ isPurring
+comment0.target=Cat(java.lang.String,\ boolean)
+comment1.params=
+comment1.target=boolean\ getIsPurring()
+comment2.params=isPurring
+comment2.target=void\ setIsPurring(boolean)
+comment3.params=
+comment3.target=void\ brushHair()
+comment4.params=obj
+comment4.target=void\ bite(java.lang.Object)
+numComments=5

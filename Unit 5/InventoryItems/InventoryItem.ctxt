@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=entryDate\ price
+comment0.target=InventoryItem(java.util.Date,\ double)
+comment1.params=
+comment1.target=java.util.Date\ getEntryDate()
+comment2.params=
+comment2.target=double\ getBasePrice()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=int\ makeId()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=answers\ name
+comment0.target=StudentAnswerSheet(java.util.ArrayList,\ java.lang.String)
+comment0.text=\ constructors\ need\ to\ be\ added\n
+comment1.params=key
+comment1.target=double\ getScore(java.util.ArrayList)
+comment1.text=\ @param\ key\ the\ list\ of\ correct\ answers,\ represented\ as\ strings\ of\ length\ one\n\ \ \ \ \ \ \ \ \ \ Precondition\:\ key.size()\ is\ equal\ to\ the\ number\ of\ answers\ in\ the\ answer\ sheet\n\ \ @return\ this\ student's\ test\ score\ \ \ \ \ \ \ \ \n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\ @return\ the\ name\ of\ the\ student\n
+comment3.params=key
+comment3.target=void\ computeScore(java.util.ArrayList)
+comment3.text=\ Other\ methods\ may\ be\ needed\n
+numComments=4

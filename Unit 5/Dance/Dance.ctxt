@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dance()
+comment1.params=length\ dancers\ choreographer
+comment1.target=Dance(int,\ java.util.ArrayList,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ perform()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

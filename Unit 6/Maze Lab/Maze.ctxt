@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Maze()
+comment1.params=size\ line
+comment1.target=Maze(int,\ java.lang.String)
+comment2.params=r\ c
+comment2.target=void\ checkForExitPath(int,\ int)
+comment3.params=
+comment3.target=void\ toStringArray()
+comment3.text=public\ String\ toString()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ return\ "\\nMaze\:\ "\ +\ toStringArray(maze)\ +\ "\\nExit\ Found\:\ "\ +\ exitFound;\n}
+numComments=4

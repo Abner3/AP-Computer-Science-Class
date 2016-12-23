@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=Parabola(int,\ int,\ int)
+comment1.params=a
+comment1.target=Parabola(int)
+comment2.params=
+comment2.target=java.lang.String\ opensUpOrDown()
+comment3.params=
+comment3.target=int\ computeXVertex()
+comment4.params=
+comment4.target=int\ computeDiscriminant()
+comment5.params=aValue
+comment5.target=void\ setA(int)
+comment6.params=bValue
+comment6.target=void\ setB(int)
+comment7.params=cValue
+comment7.target=void\ setC(int)
+comment8.params=
+comment8.target=int\ getAValue()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

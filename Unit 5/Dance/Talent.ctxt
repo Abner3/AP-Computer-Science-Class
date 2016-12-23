@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=talent\ name\ biography
+comment0.target=Talent(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2
